@@ -3,6 +3,15 @@ header  {
     background-color: #00A5AF;
 }
 
+.topline    {
+    color: white;
+    text-decoration: none;
+}
+
+.logo   {
+    align-items: center;
+}
+
 .headliner  {
 
     margin-left: 150px;
