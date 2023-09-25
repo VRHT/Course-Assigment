@@ -1,0 +1,34 @@
+header  {
+
+    background-color: #00A5AF;
+}
+
+.headliner  {
+
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-top: 20px;
+    padding: 2px;
+    background-color: #1B203D;
+    text-align: center;
+    color: white;
+}
+
+.about  {
+    margin-top: 20px;
+}
+
+.homegames  {
+    background-color: #00A5AF;
+    padding: 2px;
+    margin-top: 60px;
+    margin-left: 150px;
+    margin-right: 150px;
+    text-align: center;
+    color: white;
+}
+
+.newsletter {
+    text-align: center;
+    margin-top: 120px;
+}
