@@ -7,15 +7,17 @@
 header  {
 
     background-color: #00A5AF;
+    padding: 40px;
+    stroke: #1B203D;
 }
 
-.topline    {
+nav li  {
 
-    color: white;
-    text-decoration: none;
+    display: inline-block;
 }
 
 .logo   {
+
     align-items: center;
 }
 
@@ -24,7 +26,7 @@ header  {
     margin-left: 150px;
     margin-right: 150px;
     margin-top: 20px;
-    padding: 2px;
+    padding: 20teatepx;
     background-color: #1B203D;
     text-align: center;
     color: white;
@@ -38,7 +40,7 @@ header  {
 .homegames  {
     
     background-color: #00A5AF;
-    padding: 2px;
+    padding: 20px;
     margin-top: 60px;
     margin-left: 150px;
     margin-right: 150px;
@@ -53,6 +55,6 @@ header  {
 }
 
 h1, h2, .topline  {
-    
+
     font-family: Bebas Neue, sans-serif;
 }
