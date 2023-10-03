@@ -58,3 +58,33 @@ h1, h2, .topline  {
 
     font-family: Bebas Neue, sans-serif;
 }
+
+
+.directory  {
+    font-weight: bold;
+    margin-left: 50px;
+}
+
+.games  {
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+.shop   {
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+.test  {
+    width: 200px;
+    height: 292px;
+    border-radius: 5px;
+    margin-left: 300px;
+}
+
+.test2  {
+    width: 200px;
+    height: 292px;
+    border-radius: 5px;
+    margin-left: 10px;
+}
