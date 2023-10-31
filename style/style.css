@@ -16,6 +16,11 @@ nav li  {
     display: inline-block;
 }
 
+nav a   {
+    text-decoration: none;
+    color: white;
+}
+
 .logo   {
 
     align-items: center;
@@ -23,10 +28,10 @@ nav li  {
 
 .headliner  {
 
-    margin-left: 150px;
-    margin-right: 150px;
+    margin-left: 262px;
+    margin-right: 262px;
     margin-top: 20px;
-    padding: 20teatepx;
+    padding: 20px;
     background-color: #1B203D;
     text-align: center;
     color: white;
@@ -40,10 +45,10 @@ nav li  {
 .homegames  {
     
     background-color: #00A5AF;
-    padding: 20px;
+    padding: 40px;
     margin-top: 60px;
-    margin-left: 150px;
-    margin-right: 150px;
+    margin-left: 262px;
+    margin-right: 262px;
     text-align: center;
     color: white;
 }
@@ -87,4 +92,19 @@ h1, h2, .topline  {
     height: 292px;
     border-radius: 5px;
     margin-left: 10px;
+}
+
+footer  {
+    padding-top: 233px;
+}
+
+.foot   {
+    display: inline-block;
+    border-top: 2px solid #1B203D;
+    width: 100%;
+}
+
+.socials    {
+    text-decoration: none;
+    color: #00A5AF;
 }
