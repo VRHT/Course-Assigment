@@ -81,15 +81,15 @@ h1, h2, .topline  {
 }
 
 .test  {
-    width: 200px;
-    height: 292px;
+    width: 264px;
+    height: 368px;
     border-radius: 5px;
     margin-left: 300px;
 }
 
 .test2  {
-    width: 200px;
-    height: 292px;
+    width: 264px;
+    height: 368px;
     border-radius: 5px;
     margin-left: 10px;
 }
@@ -101,10 +101,23 @@ footer  {
 .foot   {
     display: inline-block;
     border-top: 2px solid #1B203D;
+    padding-top: 50px;
+    padding-bottom: 50px;
     width: 100%;
 }
 
 .socials    {
     text-decoration: none;
+    color: #00A5AF;
+}
+
+.info, .browse   {
+    margin: auto;
+    width: 50%;
+    max-width: 545px;
+    text-align: center;
+}
+
+.browse {
     color: #00A5AF;
 }
