@@ -111,11 +111,16 @@ footer  {
     color: #00A5AF;
 }
 
-.info, .browse   {
+.info, .browse, .team   {
     margin: auto;
     width: 50%;
     max-width: 545px;
     text-align: center;
+}
+
+.team   {
+    max-width: 466px;
+    max-height: 420px;
 }
 
 .browse {
