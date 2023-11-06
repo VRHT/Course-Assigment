@@ -109,20 +109,29 @@ footer  {
 .socials    {
     text-decoration: none;
     color: #00A5AF;
-}
-
-.info, .browse, .team   {
-    margin: auto;
-    width: 50%;
-    max-width: 545px;
-    text-align: center;
+    margin-left: 120px;
 }
 
 .team   {
+    border: 3px solid #1B203D;
     max-width: 466px;
     max-height: 420px;
+    
+}
+
+.about   {
+    background-color: #1B203D;
+}
+
+.info   {
+    margin: auto;
+    width: 50%;
+    color: white;
+    margin-top: 58px;
 }
 
 .browse {
     color: #00A5AF;
+    margin: auto;
+    width: 50%;
 }
